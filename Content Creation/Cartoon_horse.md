@@ -8,4 +8,4 @@ Generate a cartoon horse and next create a story for kids with using of that hor
 
 
 ## Generateg graphic
-![CartoonHorse](Content Creation/Images/cartoon horse.jpg)
+![CartoonHorse](https://github.com/pawrzes1/AI-Portfolio/blob/main/Content%20Creation/Images/cartoon%20horse.jpg)
